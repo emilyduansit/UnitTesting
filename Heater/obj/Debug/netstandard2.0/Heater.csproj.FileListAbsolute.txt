@@ -1,0 +1,18 @@
+C:\Users\Emily\Downloads\Heater\Heater\bin\Debug\netstandard2.0\Heater.deps.json
+C:\Users\Emily\Downloads\Heater\Heater\bin\Debug\netstandard2.0\Heater.dll
+C:\Users\Emily\Downloads\Heater\Heater\bin\Debug\netstandard2.0\Heater.pdb
+C:\Users\Emily\Downloads\Heater\Heater\obj\Debug\netstandard2.0\Heater.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Downloads\Heater\Heater\obj\Debug\netstandard2.0\Heater.AssemblyInfoInputs.cache
+C:\Users\Emily\Downloads\Heater\Heater\obj\Debug\netstandard2.0\Heater.AssemblyInfo.cs
+C:\Users\Emily\Downloads\Heater\Heater\obj\Debug\netstandard2.0\Heater.dll
+C:\Users\Emily\Downloads\Heater\Heater\obj\Debug\netstandard2.0\Heater.pdb
+C:\Users\Emily\Downloads\Heater\Heater\obj\Debug\netstandard2.0\Heater.csprojAssemblyReference.cache
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\bin\Debug\netstandard2.0\Heater.deps.json
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\bin\Debug\netstandard2.0\Heater.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\bin\Debug\netstandard2.0\Heater.pdb
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\obj\Debug\netstandard2.0\Heater.csprojAssemblyReference.cache
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\obj\Debug\netstandard2.0\Heater.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\obj\Debug\netstandard2.0\Heater.AssemblyInfoInputs.cache
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\obj\Debug\netstandard2.0\Heater.AssemblyInfo.cs
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\obj\Debug\netstandard2.0\Heater.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\Heater\obj\Debug\netstandard2.0\Heater.pdb

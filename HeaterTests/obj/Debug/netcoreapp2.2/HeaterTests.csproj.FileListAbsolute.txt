@@ -1,0 +1,34 @@
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.deps.json
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.runtimeconfig.json
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.runtimeconfig.dev.json
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.dll
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.pdb
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Heater.dll
+C:\Users\Emily\Downloads\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Heater.pdb
+C:\Users\Emily\Downloads\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.csprojAssemblyReference.cache
+C:\Users\Emily\Downloads\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Downloads\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.AssemblyInfoInputs.cache
+C:\Users\Emily\Downloads\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.AssemblyInfo.cs
+C:\Users\Emily\Downloads\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.csproj.CopyComplete
+C:\Users\Emily\Downloads\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.dll
+C:\Users\Emily\Downloads\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.pdb
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.deps.json
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.runtimeconfig.json
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.runtimeconfig.dev.json
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\HeaterTests.pdb
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Heater.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\bin\Debug\netcoreapp2.2\Heater.pdb
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.csprojAssemblyReference.cache
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.AssemblyInfoInputs.cache
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.AssemblyInfo.cs
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.csproj.CopyComplete
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.dll
+C:\Users\Emily\Documents\SOFTWARE TEST\APPLICATION\DOCUMENTS\奥克兰\Heater\Heater\HeaterTests\obj\Debug\netcoreapp2.2\HeaterTests.pdb

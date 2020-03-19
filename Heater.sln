@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heater", "Heater\Heater.csproj", "{BDFED509-885E-4839-8D82-93DA86D438C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterTests", "HeaterTests\HeaterTests.csproj", "{E32DFBD5-2A61-4F7F-B32A-A82436FFACCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFED509-885E-4839-8D82-93DA86D438C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFED509-885E-4839-8D82-93DA86D438C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFED509-885E-4839-8D82-93DA86D438C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFED509-885E-4839-8D82-93DA86D438C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32DFBD5-2A61-4F7F-B32A-A82436FFACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32DFBD5-2A61-4F7F-B32A-A82436FFACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32DFBD5-2A61-4F7F-B32A-A82436FFACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32DFBD5-2A61-4F7F-B32A-A82436FFACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5C1022-1918-4B9E-99E3-D24F3E041150}
+	EndGlobalSection
+EndGlobal
